@@ -6,7 +6,7 @@ This repository contains Python code for defining statistical models discussed i
 ## Repository Structure
 
 - `.py` files: Contains Python scripts defining statistical models.
-- `.ipynb' files: Includes Jupyter notebooks demonstrating model fitting and figure generation.
+- `.ipynb` files: Includes Jupyter notebooks demonstrating model fitting and figure generation.
 
 ## Supplementary files
 
