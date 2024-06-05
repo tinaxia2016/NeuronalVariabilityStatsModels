@@ -10,7 +10,7 @@ This repository contains Python code for defining statistical models discussed i
 
 ## Supplementary files
 
-To run the code, you'll need two supplementary files that can be downloaded from the journal (tbd)
+To run the code, you'll need two supplementary files that can be downloaded from the repository in Dryad (DOI: 10.5061/dryad.h9w0vt4s0)
 
 - `dataset.zip`: This file contains the datasets used in the analysis. After unzipping, it will create a folder containing dataset 1 and dataset 2 (see details from Methods in the paper).
 - `stats_model_fitting_res.zip`: This file contains the fitting results of the statistical models. These results can be directly used for plotting figures when running the code in the Jupyter notebooks.
