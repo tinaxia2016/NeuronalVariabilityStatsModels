@@ -1,5 +1,5 @@
 
-# Statistical Models from [Xia et al 2024](https://www.cell.com/iscience/fulltext/S2589-0042(24)01737-1))
+# Statistical Models from [Xia et al 2024](https://www.cell.com/iscience/fulltext/S2589-0042(24)01737-1)
 
 This repository contains Python code for defining statistical models discussed in the paper. Additionally, it includes Jupyter notebooks that demonstrate how to fit these statistical models to data and plot the main figures related to the model fitting results as presented in the paper.
 
